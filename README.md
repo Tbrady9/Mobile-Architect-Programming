@@ -7,3 +7,5 @@
 02/16/2023 V2 - Add user function now has working confirmation message
 
 02/16/2023 V3 - Item database and add item function working with confirmation message
+
+02/17/2023 - Recycler view implemented
