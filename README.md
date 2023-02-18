@@ -11,3 +11,5 @@
 02/17/2023 - Recycler view implemented
 
 02/18/2023 - Primary keys now working for login and item databases. 14 hours of my life I'll never get back...
+
+02/18/2023 V2 - Successfully passing values from recycler view to update item activity (including auto populating item details)
