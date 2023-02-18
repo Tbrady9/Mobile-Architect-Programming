@@ -9,3 +9,5 @@
 02/16/2023 V3 - Item database and add item function working with confirmation message
 
 02/17/2023 - Recycler view implemented
+
+02/18/2023 - Primary keys now working for login and item databases. 14 hours of my life I'll never get back...
