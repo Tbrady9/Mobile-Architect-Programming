@@ -14,7 +14,8 @@
 
 02/18/2023 V2 - Successfully passing values from recycler view to update item activity (including auto populating item details)
 
-02/19/2023 - Can't figure out how to update the database. I think the function is working but the new data is not making it into
-             the database. At this point I've changed things around so much that the program is a mess.
+02/19/2023 - It took me another 14 hours to figure out why I couldn't get my update function to work for the items. Turns out
+             I was passing the text field instead of the list. I haven't slept in over 50 hours because I'm struggling so much
+             but also having a blast! :)
                        
 
