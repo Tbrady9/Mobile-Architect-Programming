@@ -10,12 +10,13 @@
 
 02/17/2023 - Recycler view implemented
 
-02/18/2023 - Primary keys now working for login and item databases. 14 hours of my life I'll never get back...
+02/18/2023 - Primary keys now working for login and item databases.
 
 02/18/2023 V2 - Successfully passing values from recycler view to update item activity (including auto populating item details)
 
-02/19/2023 - It took me another 14 hours to figure out why I couldn't get my update function to work for the items. Turns out
-             I was passing the text field instead of the list. I haven't slept in over 2 days because I'm struggling with making
-             stupid mistakes but also having a blast with this project.
+02/19/2023 - It took me 14 hours to figure out why I couldn't get my update function to work for the items. Turns out
+             I was passing the text field instead of the list.
                        
-
+02/21/2023 - Ran into another issue last night where trying to implement requesting permissions caused me to notice that my database
+             hadn't been updating in quite some time. After hours of searching, I found a few issues with naming and an if statement.
+             This version has a working delete function and working permission request toggle.
