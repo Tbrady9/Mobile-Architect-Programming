@@ -20,3 +20,6 @@
 02/21/2023 - Ran into another issue last night where trying to implement requesting permissions caused me to notice that my database
              hadn't been updating in quite some time. After hours of searching, I found a few issues with naming and an if statement.
              This version has a working delete function and working permission request toggle.
+             
+02/22/2023 - Final product - Completed the notifications implementation with a customizable setting for when to notify of low inventory.
+              Also performed some random cleanup and organization of the code.
