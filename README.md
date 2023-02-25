@@ -1,10 +1,11 @@
 # Mobile-Architect-Programming
 
-    The final project for our CS360 Mobile Architect and Programing class was to develop a working app. We were given three options to choose from. I chose to develop an inventory tracking app to help a user track and manage available inventory. The main requirements for the app were as follows:
+The final project for our CS360 Mobile Architect and Programing class was to develop a working app. We were given three options to choose from. I chose to develop an inventory tracking app to help a user track and manage available inventory. The main requirements for the app were as follows:
   - Have a login feature with a database to store user login information
   - If a user did not have an account, an option to create an account must be included
   - Inventory must be able to be added, removed, and updated to a database and displayed as a grid
   - The app must utilize notifications (including implementing permission requesting) to notify the user of low quantities
+
   
     Many different screens were necessary to address these requirements in an organized fashion. The login screen would accomodate logging in, the registration screen helped users create an account, the main screen displayed all items in the inventory within a recyclerview, and a settings screen was needed to toggle permissions for notifications and set when to deliver those notifications. I also chose to implement an item update screen to handle all updates made to existing items. This choice was made to avoid overwhelming the user with clutter on the main screen. That was only one choice made with the user in mind. Text sizes and item spacing was also chosen with the user in mind, as well as a contrasting color choice which both helps the user and adheres to android guidelines. The overall flow of screens was another choice made with the user in mind. I wanted to model the app around the user's workflow and how I expected them to navigate from screen to screen. In the end, these choices lead to a clean app that is setup to help the user track their inventory in the best way possible.
   
